@@ -1,0 +1,74 @@
+{
+  "shapes": {
+    "Round": {
+      "table": { "excellent": [53, 57], "good": [51, 62], "fair": [47, 65] },
+      "depth": { "excellent": [59.0, 62.9], "good": [56.5, 65.0], "fair": [54.0, 67.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 0.98, "max": 1.02, "label": "L/W Ratio" }
+    },
+    "Oval": {
+      "table": { "excellent": [53, 63], "good": [50, 66], "fair": [47, 70] },
+      "depth": { "excellent": [58.0, 62.0], "good": [55.0, 65.0], "fair": [52.0, 68.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.30, "max": 1.55, "label": "L/W Ratio" }
+    },
+    "Cushion": {
+      "table": { "excellent": [61, 67], "good": [57, 72], "fair": [53, 75] },
+      "depth": { "excellent": [61.0, 67.0], "good": [58.0, 70.0], "fair": [55.0, 73.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.00, "max": 1.10, "label": "L/W Ratio" }
+    },
+    "Emerald": {
+      "table": { "excellent": [61, 69], "good": [57, 72], "fair": [53, 75] },
+      "depth": { "excellent": [61.0, 67.0], "good": [58.0, 70.0], "fair": [55.0, 73.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.30, "max": 1.60, "label": "L/W Ratio" }
+    },
+    "Pear": {
+      "table": { "excellent": [53, 65], "good": [50, 68], "fair": [46, 72] },
+      "depth": { "excellent": [58.0, 64.0], "good": [55.0, 67.0], "fair": [52.0, 70.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.45, "max": 1.70, "label": "L/W Ratio" }
+    },
+    "Princess": {
+      "table": { "excellent": [67, 72], "good": [62, 75], "fair": [58, 79] },
+      "depth": { "excellent": [65.0, 75.0], "good": [62.0, 77.0], "fair": [58.0, 80.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.00, "max": 1.05, "label": "L/W Ratio" }
+    },
+    "Marquise": {
+      "table": { "excellent": [53, 63], "good": [50, 67], "fair": [46, 70] },
+      "depth": { "excellent": [58.0, 62.0], "good": [55.0, 65.0], "fair": [52.0, 68.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.75, "max": 2.15, "label": "L/W Ratio" }
+    },
+    "Radiant": {
+      "table": { "excellent": [61, 69], "good": [57, 72], "fair": [53, 75] },
+      "depth": { "excellent": [61.0, 67.0], "good": [58.0, 70.0], "fair": [55.0, 73.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.00, "max": 1.35, "label": "L/W Ratio" }
+    },
+    "Asscher": {
+      "table": { "excellent": [61, 69], "good": [57, 72], "fair": [53, 75] },
+      "depth": { "excellent": [61.0, 67.0], "good": [58.0, 70.0], "fair": [55.0, 73.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 1.00, "max": 1.04, "label": "L/W Ratio" }
+    },
+    "Heart": {
+      "table": { "excellent": [56, 62], "good": [52, 66], "fair": [48, 70] },
+      "depth": { "excellent": [58.0, 62.0], "good": [55.0, 65.0], "fair": [52.0, 68.0] },
+      "girdle": ["thin", "medium", "slightly thick"],
+      "culet": ["none", "pointed", "very small"],
+      "lengthToWidth": { "min": 0.90, "max": 1.10, "label": "L/W Ratio" }
+    }
+  }
+}
