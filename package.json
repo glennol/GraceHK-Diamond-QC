@@ -18,7 +18,7 @@
     "tesseract.js": "^5.0.3",
     "konva": "^9.2.3",
     "react-konva": "^18.2.10",
-    "jspdf": "^2.5.1",
+    "jspdf": "^4.2.1",
     "framer-motion": "^10.16.16"
   },
   "devDependencies": {
