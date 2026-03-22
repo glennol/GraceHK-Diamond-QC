@@ -1,5 +1,7 @@
 # Lab Diamond Checker 💎
 
+**🔗 Live Demo: [https://glennol.github.io/GraceHK-Diamond-QC/](https://glennol.github.io/GraceHK-Diamond-QC/)**
+
 A production-style, 100% client-side diamond quality control web application built with React + TypeScript + Vite.
 
 ## Features
